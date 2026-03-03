@@ -1,0 +1,18 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    background-color: beige;
+
+}
+
+li{
+    color: white;
+}
+
+.active-link{
+  border: 2px solid red;
+  border-radius: 0.3rem;
+}
